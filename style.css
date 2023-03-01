@@ -1,0 +1,23 @@
+
+
+h2 {
+   font-family:'Dancing Script', cursive;; 
+}
+
+
+* h1 {
+    color:rgb(126, 153, 126);
+}
+
+*h2 {
+color:grey;
+
+}
+
+div {
+    height: 200px;
+    border-top-right-radius: 100%;
+    margin-top: 0%;
+   
+}
+
